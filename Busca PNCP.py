@@ -213,7 +213,7 @@ if buscar_btn:
         parametros = {
             'dataInicial': data_inicial_api_str,
             'dataFinal': data_final_api_str,
-            'modalidadeId': mod_id, 
+            'codigoModalidadeContratacao': mod_id, 
             'tamanhoPagina': 50,
             'pagina': pagina
         }
